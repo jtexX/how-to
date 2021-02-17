@@ -4,3 +4,5 @@ body {font-family: monospace;
 h2 {border: 0.2em solid black;
 padding: .3em;
 margin: .}
+
+h4.intro {border-bottom: .1em solid}
