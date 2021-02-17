@@ -1,5 +1,6 @@
 body {font-family: monospace;
-  background-color: lightgrey}
+  background-color: lightgrey;
+width: 48em}
 
 h2 {border: 0.2em solid black;
 padding: .3em;
