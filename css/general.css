@@ -19,6 +19,9 @@ img {
 }
 div.one {text-align: center}
 
+div.two {text-align: center;
+  background-color: grey;
+broder: 0.1 solid black;}
 
 h2.end {border: 0.1em solid black;
 padding: .2em;}
